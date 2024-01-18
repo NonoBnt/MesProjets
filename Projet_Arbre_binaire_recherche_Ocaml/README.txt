@@ -1,0 +1,2 @@
+Le projet avait pour but d'implementer un module d'arbre binaire de recherche en Ocaml, et de faire des expérimentations sur leur utilité et leur fonctionnement.
+Il faut s'avoir qu'on apprend actuellement à coder vraiment en Ocaml, ce projet est codé avec beaucoup d'élément syntaxiques inutiles, on nous à expliqué il y a seulement une semaines comment coder proprement dans ce language. 

@@ -1,0 +1,2 @@
+Projet ayant pour but de coder un jeu textuel en Java, nous avions des caractéritiques imposées mais le choix du contexte et de l'histoire du jeu étaient libres.
+Le projet était à faire en groupe de 3.
