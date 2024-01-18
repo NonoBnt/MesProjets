@@ -1,0 +1,3 @@
+Il s'agit d'un projet réalisé en L2, nous avions pour consignes de coder un jeu qui se jouait automatiquement : il y a une tour avec un chemin qui y mène. 
+Le but était de créer des unité qui parcouraient le chemin pour attaquer la tour, en même temps, des unitées placées sur le bord du chemin avait pour but de défendre la tour, le tout géré automatiquement et alléatoirement sous la formede manches où chaque unitée se déplace puis attaque.
+Nous n'avons pas codé la partie graphique qui nous à été donné tel quel.
